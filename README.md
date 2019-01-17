@@ -1,2 +1,2 @@
 # Drift_Age_Struct
-R Script to perform drift simulations in age-structured populations. Heredity (in press) By Andrew D.J. Overall 2019
+R Script to perform drift simulations for age-structured populations. R script and input files relate to the results presented in: Overall ADJ & Faragher RGA, Population type influences the rate of ageing. Heredity (in press).
